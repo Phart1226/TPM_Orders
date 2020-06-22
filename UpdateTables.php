@@ -1,3 +1,4 @@
+//Updates tables to shift each order into the correct table based on the order's shipping date
 <?php
     include 'connection.php';
 
