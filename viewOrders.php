@@ -1,3 +1,4 @@
+<!-- Created so other workers could view all orders but without the ability to delete or edit the orders-->
 <?php
     
     include 'connection.php';
