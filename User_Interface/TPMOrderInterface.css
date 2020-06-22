@@ -1,0 +1,144 @@
+/*Colors
+    #1F363D - Gunmetal grey
+    #40798C - Teal Blue
+    #70A9A1 - Teal Green
+    #9EC1A3 - Light Green
+    #CFE0C3 - Super Light Green (closest to white)
+    #FFE8D1 - Peach
+    #68C3D4 - Light Blue
+    #1A1A1A - Black
+
+Global
+-------------------------------------------------*/
+
+
+
+
+/*
+Title
+--------------------------------------------------*/
+.title{
+    text-align: center;
+}
+
+
+
+
+/*
+Table headers
+--------------------------------------------------*/
+
+h2{
+    font-family: 'Raleway', sans-serif;
+    font-size: 80px;
+    color: #1F363D;
+    padding: 20px;
+}
+
+
+/*
+Table Entries
+--------------------------------------------------*/
+tbody{
+    font-size: 30px;
+}
+
+thead{
+    font-size: 24px;
+}
+
+td{
+    text-align: center;
+}
+
+
+.tableContainer{
+    margin-left: 2.5%;
+    width: 95%;
+}
+
+.brand{
+    background: #8B0000 !important;
+}
+
+.brand-text{
+    color: #8B0000 !important;
+    font-size: 30px !important;
+}
+
+#todayTitle{
+    color: red;
+}
+
+#tomorrowTitle{
+    font-size: 50px;
+}
+
+#bottomNav{
+    padding-top: 120px;
+}
+
+form{
+    width: 60%;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+label{
+    font-size: 30px;
+}
+
+#todayFont{
+    font-size: 40px;
+}
+
+/* For mobile
+------------------------------------------------*/
+
+@media screen and (max-width: 800px){
+
+    h2{
+        font-size: 40px;
+    }
+
+    tbody{
+        font-size: 12px;
+    }
+    
+    thead{
+        font-size: 12px;
+    }
+
+    .tableContainer{
+        margin-left: 2.5%;
+        width: 95%;
+    }
+
+    .title{
+        text-align: center;
+    }
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
